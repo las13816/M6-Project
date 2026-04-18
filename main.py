@@ -1,5 +1,5 @@
 from schedule import Schedule
-2
+
 
 def menu():
     print("\nCourse Schedule System")
